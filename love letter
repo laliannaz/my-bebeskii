@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To My Sweet Boy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Cover Section -->
+  <div class="cover" id="cover">
+    <img src="cover.jpg" alt="Us" class="cover-photo">
+    <h1 class="title">To My Sweet Boy 💌</h1>
+    <button onclick="openLetter()" class="btn">Open the Letter</button>
+    <div class="tulips"></div>
+  </div>
+
+  <!-- Letter Section -->
+  <div class="letter" id="letter">
+    <h2>Hey sweet boy,</h2>
+    <p>
+      In just two months of being together, we’ve shared parts of ourselves that we’ve never shown to anyone else.
+      You know how lonely I’ve been feeling, living and figuring out my life alone abroad. I have been betrayed many times,
+      lost my confidence, and doubted myself for so long.
+      Yet I met you — an amazing man who never fails to call me beautiful every day, who makes me feel so loved,
+      and who supports me through everything, reminding me that I am not alone as I face life’s challenges.
+    </p>
+    <p>
+      I want to show you how deeply I appreciate you for always being there for me,
+      for showing up even when you have your own problems to deal with, and for reminding me that there are so many things I should be grateful for and proud of.
+      In just these two months, I’ve learned so much about you and from you.
+      I want you to know that you have someone who will love you as much as you love me, and who will always reciprocate the effort you give.
+    </p>
+    <p>
+      I am so proud of the person you are and of all the amazing things you do.
+      Know that I am forever grateful to have you in my life, and grateful to your parents for raising a respectful, kind, and intelligent man.
+      I love you
